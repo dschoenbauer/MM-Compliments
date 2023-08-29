@@ -1,0 +1,25 @@
+{
+    "compliments": {
+        "anytime": [],
+        "morning": [],
+        "afternoon": [],
+        "evening": [],
+        "snow": [],
+        "day_sunny": [],
+        "day_cloudy": [],
+        "cloudy": [],
+        "cloudy_windy": [],
+        "showers": [],
+        "rain": [],
+        "thunderstorm": [],
+        "fog": [],
+        "night_clear": [],
+        "night_cloudy": [],
+        "night_showers": [],
+        "night_rain": [],
+        "night_thunderstorm": [
+            "It's a stormy night, don't be scared"
+        ],
+        "night_alt_cloudy_windy": []
+    }
+}
